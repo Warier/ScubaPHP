@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(0);
+
 function authentication($email, $password){
     $user = crud_restore($email);
     $auth_flag = false;
