@@ -1,6 +1,6 @@
 # ScubaPHP
 
-Plataforma de cadastro e login de usuarios
+Plataforma de cadastro e login de usuarios  
 
 <h2>Instrucoes</h2>
 
